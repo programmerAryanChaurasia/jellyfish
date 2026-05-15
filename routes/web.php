@@ -1,4 +1,5 @@
 <?php
+// I am write from claude ai dashboard
 
 use App\Http\Controllers\Admin\Auth\AdminLoginController;
 use App\Http\Controllers\Admin\DashboardController;
